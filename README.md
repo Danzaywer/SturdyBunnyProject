@@ -1,4 +1,11 @@
-
+Supportfree mod
+print this files:
+gearbox_front_supportfree.stl
+BOTTOM_PANEL_supportfree.stl
+filament_block_supportfree.stl
+filament_block_BEARING_supportfree.stl
+TOP_hat_supportfree.stl
+filament_block_END_supportfree.stl
 # SturdyBunnyProject
 
 Welcome to the Sturdy Rabbit Project Github page!
