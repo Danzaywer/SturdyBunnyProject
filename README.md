@@ -6,6 +6,9 @@ filament_block_supportfree.stl
 filament_block_BEARING_supportfree.stl
 TOP_hat_supportfree.stl
 filament_block_END_supportfree.stl
+
+<img width="800" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://github.com/Danzaywer/SturdyBunnyProject/blob/main/images/image.png">
+
 # SturdyBunnyProject
 
 Welcome to the Sturdy Rabbit Project Github page!
